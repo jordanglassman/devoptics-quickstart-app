@@ -6,10 +6,10 @@
     <artifactId>devoptics-quickstart-dev</artifactId>
 
     <name>DevOptics Quickstart</name>
-    <modules>
-        <module>project-a</module>
-        <module>project-b</module>
-    </modules>
+<!--    <modules>-->
+<!--        <module>project-a</module>-->
+<!--        <module>project-b</module>-->
+<!--    </modules>-->
 
     <packaging>pom</packaging>
 
