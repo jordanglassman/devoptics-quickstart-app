@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>project-b</artifactId>
+    <!-- https://mvnrepository.com/arfdtifact/org.jasypt/jasypt -->
 
     <dependencies>
         <dependency>

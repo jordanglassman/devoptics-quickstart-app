@@ -11,6 +11,7 @@
 
     <artifactId>project-a</artifactId>
     <dependencies>
+        <!-- https://mvnrepository.com/arfdtifact/org.jasypt/jasypt -->
         <dependency>
             <groupId>org.jasypt</groupId>
             <artifactId>jasypt</artifactId>

@@ -12,6 +12,7 @@
     </modules>
 
     <packaging>pom</packaging>
+    <!-- https://mvnrepository.com/arfdtifact/org.jasypt/jasypt -->
 
     <version>1.0-SNAPSHOT</version>
 </project>
